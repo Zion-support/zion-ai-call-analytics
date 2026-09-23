@@ -1,17 +1,10 @@
-# Zion AI Call Analytics — Zion App Network
+# Zion AI Call Analytics
 
-Zion AI Call Analytics — voice-of-customer insights from call recordings. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+Call analytics and conversation intelligence.
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-call-analytics/](https://ziontechgroup.com/zion-ai-call-analytics/)
-- 🏠 Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-sales-call-analyst](https://github.com/Zion-support/zion-ai-sales-call-analyst) · [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) · [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-support-copilot](https://github.com/Zion-support/zion-ai-support-copilot)
 
-## Related apps in the network
-
-- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring
-- [Zion AI CAB Assistant](https://github.com/Zion-support/zion-ai-cab-assistant) — change advisory board automation
-- [AI Audio Transcriber](https://github.com/Zion-support/ai-audio-transcriber) — audio transcription
-- [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening) — brand monitoring and sentiment
-- [Zion AI Voice Assistant](https://github.com/Zion-support/zion-ai-voice-assistant) — AI voice assistant
-
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
