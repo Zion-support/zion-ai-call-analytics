@@ -12,3 +12,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - [Zion AI Translation Hub](https://ziontechgroup.com/zion-ai-translation-hub/)
 - [Zion AI Data Analyst](https://ziontechgroup.com/zion-ai-data-analyst/)
 - [Zion Vector Search](https://ziontechgroup.com/zion-vector-search/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
