@@ -1,17 +1,16 @@
 # Zion AI Call Analytics
 
-Voice-of-customer insights from call recordings: transcription, sentiment, coaching.
+Voice-of-customer insights from call recordings and transcripts.
 
-**Live:** https://ziontechgroup.com/zion-ai-call-analytics/
+**Live app:** https://ziontechgroup.com/zion-ai-call-analytics/
 
-Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+## Features
+- Sentiment and topic extraction from calls
+- Agent performance and compliance flags
+- VoC trends feeding CX strategy
 
-## Companion apps
-- [Zion AI Sales Intelligence](https://ziontechgroup.com/zion-ai-sales-intelligence/)
-- [Zion AI Support Copilot](https://ziontechgroup.com/zion-ai-support-copilot/)
-- [Zion AI Translation Hub](https://ziontechgroup.com/zion-ai-translation-hub/)
-- [Zion AI Data Analyst](https://ziontechgroup.com/zion-ai-data-analyst/)
-- [Zion Vector Search](https://ziontechgroup.com/zion-vector-search/)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Sales Call Analyst](https://github.com/Zion-support/zion-ai-sales-call-analyst) · [Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [Voice of Customer Hub](https://github.com/Zion-support/voice-of-customer-hub) · [Churn Early-Warning](https://github.com/Zion-support/zion-ai-churn-early-warning)
 
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group
